@@ -36,7 +36,7 @@ if st.button("Recommend"):
 
 
 if st.button("Reset"):
-    st.experimental_rerun()
+    st.rerun()
 
 
 
